@@ -1,0 +1,32 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Triangulo	../classe_triangulo.py	/^class Triangulo:$/;"	kind:class	line:1
+Triangulo	../tipo_triangulo.py	/^class Triangulo:$/;"	kind:class	line:1
+__init__	../classe_triangulo.py	/^    def __init__(self,a,b,c):$/;"	kind:member	line:3
+__init__	../tipo_triangulo.py	/^    def __init__(self,a,b,c):$/;"	kind:member	line:3
+busca	../busca_binaria.py	/^def busca(lista,elemento):$/;"	kind:function	line:1
+busca	../busca_sequencial.py	/^def busca(lista,elemento):$/;"	kind:function	line:1
+busca_binaria.py	../busca_binaria.py	1;"	kind:file	line:1
+busca_sequencial.py	../busca_sequencial.py	1;"	kind:file	line:1
+classe_triangulo.py	../classe_triangulo.py	1;"	kind:file	line:1
+dimensoes	../dimensoesMatriz.py	/^def dimensoes(matriz):$/;"	kind:function	line:1
+dimensoesMatriz.py	../dimensoesMatriz.py	1;"	kind:file	line:1
+lista_ordenada.py	../lista_ordenada.py	1;"	kind:file	line:1
+m1	../somaMatriz.py	/^m1 = [[1, 2, 3], [4, 5, 6]]$/;"	kind:variable	line:12
+m1	../somaMatriz.py	/^m1 = [[1], [2], [3]]$/;"	kind:variable	line:17
+m2	../somaMatriz.py	/^m2 = [[2, 3, 4], [5, 6, 7]]$/;"	kind:variable	line:13
+m2	../somaMatriz.py	/^m2 = [[2, 3, 4], [5, 6, 7]]$/;"	kind:variable	line:18
+maiusculas	../maiusculas.py	/^def maiusculas(frase):$/;"	kind:function	line:1
+maiusculas.py	../maiusculas.py	1;"	kind:file	line:1
+menor_nome	../menor_nome.py	/^def menor_nome(lista):$/;"	kind:function	line:1
+menor_nome.py	../menor_nome.py	1;"	kind:file	line:1
+ordenada	../lista_ordenada.py	/^def ordenada(lista):$/;"	kind:function	line:1
+perimetro	../classe_triangulo.py	/^    def perimetro(self):$/;"	kind:member	line:8
+somaMatriz.py	../somaMatriz.py	1;"	kind:file	line:1
+soma_matrizes	../somaMatriz.py	/^def soma_matrizes(m1,m2):$/;"	kind:function	line:1
+tipo_lado	../tipo_triangulo.py	/^    def tipo_lado(self):$/;"	kind:member	line:8
+tipo_triangulo.py	../tipo_triangulo.py	1;"	kind:file	line:1
